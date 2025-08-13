@@ -1,1 +1,2 @@
 # Turbulent-JumpGrid
+A custom gridworld environment (JumpGrid) inspired by Windy Gridworld but with dynamic obstacles and stochastic wind (including varying direction and intensity of wind). Implemented and compared three n-step methods (SARSA, Tree Backup, Q(σ)). Analyzed stability and performance trade-offs in a highly stochastic setting through hyperparameter optimization and adaptive state-dependent exploration strategies.
